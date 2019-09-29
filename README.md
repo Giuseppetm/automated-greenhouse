@@ -4,6 +4,7 @@ I spent more or less 1 month on this project, which I exhibited during my gradua
 The automated greenhouse has the following features:
 - Manual mode;
 - Automatic mode;
+
 each selectable with a dedicated button.
 Each user choice will be accompanied by an audio that describes the action being performed, playing it through a speaker.
 
