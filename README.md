@@ -1,4 +1,4 @@
-# SerraAutomatizzata
+# Serra,Automatizzata
 I spent more or less 1 month on this project, which I exhibited during my graduation oral exam in 2018. It was designed to provide an example of how a traditional greenhouse can be automated through the use of a microcontroller like Arduino.
 
 The automated greenhouse has the following features:
