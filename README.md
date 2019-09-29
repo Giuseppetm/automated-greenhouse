@@ -1,0 +1,2 @@
+# SerraAutomatizzata
+test
