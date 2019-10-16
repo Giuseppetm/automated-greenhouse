@@ -29,4 +29,4 @@ Components i used for the project:
 -	Connection cables.
 
 # Graphic Circuit
-[https://github.com/Giuseppetm/Automated_Greenhouse/blob/master/graphic_circuit.png](dennis)
+![](https://github.com/Giuseppetm/Automated_Greenhouse/blob/master/graphic_circuit.png)
