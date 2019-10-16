@@ -27,3 +27,6 @@ Components i used for the project:
 - 1k, 2k and 10k Resistances;
 -	Capacitors;
 -	Connection cables.
+
+# Graphic Circuit
+[https://github.com/Giuseppetm/Automated_Greenhouse/blob/master/graphic_circuit.png]
