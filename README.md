@@ -1,6 +1,6 @@
 <div align="center">
     <h2>Automated Greenhouse</h2>
-	<img src="main.png" style="width:50%; heigth: 50%; border:1px solid grey;">
+	<img src="main.png" width="50%" heigth="50%">
 	<br>
 	<br>
 	<hr>
