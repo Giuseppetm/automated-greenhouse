@@ -1,16 +1,36 @@
 <div align="center">
-### Automated Greenhouse
-I spent more or less 1 month on this project, which I exhibited during my graduation oral exam in 2018. It was designed to provide an example of how a traditional greenhouse can be automated through the use of a microcontroller like Arduino.
-Here you can find the code for this project, and a description about it.
+    <h2>Automated Greenhouse</h2>
+	<img src="main.png" style="width:50%; heigth: 50%; border:1px solid grey;">
+	<br>
+	<br>
+	<hr>
+	<p>
+		<p>
+			<sup>
+            <b>Description of the project</b><br><br>
+			I spent more or less 1 month on this project, which I exhibited during my graduation oral exam in 2018.<br>
+            It was designed to provide an example of how a traditional greenhouse can be automated<br> through the use of a microcontroller like Arduino.<br>
+            Here you can find the code for this project, and a description about it.
+			</sup>
+		</p>
+	</p>
+    <p>
+		<p>
+			<sup>
+            The automated greenhouse has the following features:<br>
+            Manual mode / Automatic mode<br>
+            each selectable with a dedicated button.<br>
+            Each user choice will be accompanied by an audio that describes the action<br> being performed, playing it through a speaker.
+			</sup>
+		</p>
+	</p>
+	<hr>
+    <h3>Graphic Circuit</h3>
+    <img src="graphic_circuit.png" style="width:70%;heigth:70%">
+</div>
+<hr>
 
-The automated greenhouse has the following features:
-- Manual mode;
-- Automatic mode;
-
-each selectable with a dedicated button.
-Each user choice will be accompanied by an audio that describes the action being performed, playing it through a speaker.
-
-Components i used for the project:
+### Components used for the project:
 -	Arduino Mega 2560 R3;
 -	Breadboard;
 -	YL-38 Module for YL-69;
@@ -25,9 +45,6 @@ Components i used for the project:
 -	Tubes for passage of the water;
 -	Standard buttons;
 -	10k Potentiometer;
-- 1k, 2k and 10k Resistances;
+-   1k, 2k and 10k Resistances;
 -	Capacitors;
 -	Connection cables.
-
-### Graphic Circuit
-![](https://github.com/Giuseppetm/Automated_Greenhouse/blob/master/graphic_circuit.png)
