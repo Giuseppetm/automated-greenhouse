@@ -10,13 +10,13 @@ each selectable with a dedicated button.
 Each user choice will be accompanied by an audio that describes the action being performed, playing it through a speaker.
 
 Components i used for the project:
-1-	Arduino Mega 2560 R3;
-2-	Breadboard;
-3-	YL-38 Module for YL-69;
-4-	Earth humidity sensor (YL-69);
-5-	Air humidity and temperature sensor (DHT22);
-6-	3W Speaker;
-7-	Display LCD 1602A;
+1	Arduino Mega 2560 R3;
+2	Breadboard;
+3	YL-38 Module for YL-69;
+4	Earth humidity sensor (YL-69);
+5	Air humidity and temperature sensor (DHT22);
+6	3W Speaker;
+7	Display LCD 1602A;
 -	Audio module DF Player Mini SKU-DFR0299;
 -	Micro SD;
 -	Water pump DC30B;
