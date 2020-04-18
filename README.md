@@ -26,7 +26,7 @@
 	</p>
 	<hr>
     <h3>Graphic Circuit</h3>
-    <img src="graphic_circuit.png" style="width:70%;heigth:70%">
+    <img src="graphic_circuit.png" width="70%" heigth="70%">
 </div>
 <hr>
 
