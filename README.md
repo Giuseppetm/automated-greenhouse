@@ -1,36 +1,22 @@
-<div align="center">
-    <h2>Automated Greenhouse</h2>
-	<img src="main.png" width="50%" heigth="50%">
-	<br>
-	<br>
-	<hr>
-	<p>
-		<p>
-			<sup>
-            <b>Description of the project</b><br><br>
-			I spent more or less 1 month on this project, which I exhibited during my graduation oral exam in 2018.<br>
-            It was designed to provide an example of how a traditional greenhouse can be automated<br> through the use of a microcontroller like Arduino.<br>
-            Here you can find the code for this project, and a description about it.
-			</sup>
-		</p>
-	</p>
-    <p>
-		<p>
-			<sup>
-            The automated greenhouse has the following features:<br>
-            Manual mode / Automatic mode<br>
-            each selectable with a dedicated button.<br>
-            Each user choice will be accompanied by an audio that describes the action<br> being performed, playing it through a speaker.
-			</sup>
-		</p>
-	</p>
-	<hr>
-    <h3>Graphic Circuit</h3>
-    <img src="graphic_circuit.png" width="70%" heigth="70%">
-</div>
-<hr>
+<img align="right" src="img/—Pngtree—tree natural logo and green_5157548.png" width="170" heigth="170">
 
-### Components used for the project:
+<h1 style="color:#7cb853;">Automated Greenhouse</h1>
+I spent more or less 1 month on this project, which I exhibited during my graduation oral exam in 2018.
+It was designed to provide an example of how a traditional greenhouse can be automated through the use of a microcontroller like Arduino.
+
+## Description of the project
+The greenhouse has two buttons, one dedicated to the activation of the automatic mode, and one for the manual mode. Each user choice will be accompanied by an audio that describes the action being performed, playing it through a speaker.<br>
+In automatic mode, the greenhouse will independently manage the irrigation of the plant according to the humidity of the soil and the air temperature. It will irrigate in shorter time intervals if the ground is dry.<br>
+In manual mode, on the other hand, it is up to the user who uses the greenhouse to decide whether to irrigate or not depending on the soil humidity and the air temperature. To do this, various buttons are available that allow you to irrigate and show the temperature and humidity on the display.<br>
+I want to specify how I managed the soil moisture control sensor (YL-69). The sensor I purchased for this purpose is very sensitive and deteriorates very easily. To make it last much longer I managed it in such a way that it turned on for a few moments just to allow it to calculate the humidity, instead of always keeping it on.
+
+## Graphic Circuit
+
+<div align="center">
+<img src="img/graphic_circuit.png" width="550">
+</div>
+
+## Components used for the project
 -	Arduino Mega 2560 R3;
 -	Breadboard;
 -	YL-38 Module for YL-69;
