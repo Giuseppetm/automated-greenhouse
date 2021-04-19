@@ -1,4 +1,4 @@
-<img align="right" src="img/—Pngtree—green leaf logo icon design_35565082.jpg.png" width="110" heigth="110">
+<img align="right" src="img/automated_greenhouse.png" width="110" heigth="110">
 
 <h1 style="color:#7cb853;">Automated Greenhouse</h1>
 I spent more or less 1 month on this project, which I exhibited during my graduation oral exam in 2018.
