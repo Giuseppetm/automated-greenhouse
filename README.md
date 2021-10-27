@@ -34,3 +34,12 @@ I want to specify how I managed the soil moisture control sensor (YL-69). The se
 -   1k, 2k and 10k Resistances;
 -	Capacitors;
 -	Connection cables.
+
+## Sample images
+
+### View of the container and components
+![](img/final_project/2.jpg)
+![](img/final_project/3.jpg)
+
+### The Automated Greenhouse with a plant in it
+![Greenhouse with the plant in it](img/final_project/4_1.jpg)
